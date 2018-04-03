@@ -1,0 +1,38 @@
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer_MarkupCompile.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer_MarkupCompile.lref
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.exe.config
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.pdb
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.g.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Edu.Sg.Nus.Iss.Smartwall.StateTransformer.Properties.Resources.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csproj.GenerateResource.Cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.pdb
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.exe.config
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Smartwall-StateTransformer.pdb
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csprojResolveAssemblyReference.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer_MarkupCompile.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer_MarkupCompile.lref
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.g.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Edu.Sg.Nus.Iss.Smartwall.StateTransformer.Properties.Resources.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csproj.GenerateResource.Cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.csproj.CoreCompileInputs.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\Smartwall-StateTransformer.pdb
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\StateTransformController.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\New folder\HDFaceBasics-WPF\obj\x64\Debug\StateTransformController.baml

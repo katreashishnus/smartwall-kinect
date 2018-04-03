@@ -1,0 +1,8 @@
+﻿<Application x:Class="Edu.Sg.Nus.Iss.Smartwall.StateTransformer.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="StateTransformController.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

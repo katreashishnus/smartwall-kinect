@@ -1,0 +1,131 @@
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Kinect code\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Kinect code\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\FT05\Downloads\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+D:\smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+D:\smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Smart Wall\Downloads\OneDrive_1_17-01-2018\HDFaceBasics-WPF 09-01-5-10\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\SmartWall\Documents\GitHub\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe.config
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\HDFaceBasics-WPF.pdb
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.dll
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\bin\x64\Debug\Microsoft.Kinect.Face.xml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF_MarkupCompile.lref
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.g.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\Microsoft.Samples.Kinect.HDFaceBasics.Properties.Resources.resources
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.exe
+C:\Users\Smart Wall\Desktop\Release 2\Smartwall\HDFaceBasics-WPF\obj\x64\Debug\HDFaceBasics-WPF.pdb
